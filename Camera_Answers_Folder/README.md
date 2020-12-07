@@ -1,0 +1,1 @@
+Folder to upload scans or photos of your completed work for this section, please make sure the images are readable and clear.  Show all work to receive full credit.
