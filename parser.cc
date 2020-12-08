@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 int main()
 {
     
@@ -41,6 +42,8 @@ int main()
     else        // if it doesn't
         cout << " is not balanced" << endl;
         
+
+    
 
 
 }
